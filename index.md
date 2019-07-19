@@ -32,4 +32,6 @@ Segment 5: Seniors going back home for retirement or older people moving out of 
 ## Slides
 #### [Download PDF](https://github.com/Yiting2018/SunCountry-Segmentation-Analysis/raw/master/Sun%20Country%20Airlines.pdf)
 
-### [Go Back to Homepage](https://yiting2018.github.io)
+<br>
+
+## [Go Back to Homepage](https://yiting2018.github.io)
